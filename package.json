@@ -1,6 +1,6 @@
 {
   "name": "gulp-sass-inheritance",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Rebuild only changed sass/scss files and all it's dependencies",
   "main": "index.js",
   "repository": {
