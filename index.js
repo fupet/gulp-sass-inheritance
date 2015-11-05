@@ -3,10 +3,7 @@
 var es = require('event-stream');
 var _ = require("lodash");
 var vfs = require('vinyl-fs');
-var through2 = require('through2');
-var gutil = require('gulp-util');
 var sassGraph = require('sass-graph');
-var PLUGIN_NAME = 'gulp-sass-inheritance';
 
 var stream;
 

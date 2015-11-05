@@ -24,10 +24,8 @@
   "homepage": "https://github.com/berstend/gulp-sass-inheritance",
   "dependencies": {
     "event-stream": "^3.1.7",
-    "gulp-util": "^3.0.0",
     "lodash": "^2.4.1",
     "sass-graph": "^1.2.0",
-    "through2": "^0.6.0",
     "vinyl-fs": "^0.3.6"
   }
 }
